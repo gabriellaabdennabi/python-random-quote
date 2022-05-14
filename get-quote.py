@@ -1,4 +1,4 @@
-def main():
+def hello():
   print("Keep it logically awesome")
 
   #open quotes.txt file
@@ -8,5 +8,5 @@ def main():
   # print(quotes)
 
 
-if __name__== "__main__":
-  main()
+if __name__== "__hello__":
+  hello()
